@@ -26,6 +26,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 2. jalankan " composer install "
 3. jalankan " npm install "
 4. jalankan " npm run dev "
-2. jalankan " php artisan migrate "
-3. jalankan " php artisan serve "
+5. jalankan " php artisan migrate "
+6. jalankan " php artisan serve "
 
