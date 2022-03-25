@@ -23,6 +23,9 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## How To Run Project
 1. set .env
+2. jalankan " composer install "
+3. jalankan " npm install "
+4. jalankan " npm run dev "
 2. jalankan " php artisan migrate "
 3. jalankan " php artisan serve "
 
