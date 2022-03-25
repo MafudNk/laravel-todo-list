@@ -29,3 +29,7 @@ Route::get('/todos_done/{id}', [App\Http\Controllers\todoController::class, 'don
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
